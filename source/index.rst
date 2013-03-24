@@ -9,14 +9,14 @@ Contents:
 .. toctree::
 	:maxdepth: 2
 
-	sources/x86.rst
-	sources/ograniczenia.rst
-	sources/x86aARM.rst
-	sources/x86aMobile.rst
-	sources/chlodzenie.rst
-	sources/zasobozernosc.rst
-	sources/baterie.rst
-	sources/rozwiazania.rst
+	chapters/x86.rst
+	chapters/ograniczenia.rst
+	chapters/x86aARM.rst
+	chapters/x86aMobile.rst
+	chapters/chlodzenie.rst
+	chapters/zasobozernosc.rst
+	chapters/baterie.rst
+	chapters/rozwiazania.rst
 
 
 Indices and tables
